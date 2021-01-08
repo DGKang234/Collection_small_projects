@@ -1,4 +1,4 @@
-# Collection_small_projects
+# SPoject_Collections
 This is a repository that contains many small projects (for learning/fun/exploring)
 
 Sentdex-DeepLearning-basics.ipynb : ML for handwriting recognition (numbers) 
