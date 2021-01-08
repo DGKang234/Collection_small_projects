@@ -1,7 +1,9 @@
 # SPoject_Collections
-This is a repository that contains many small projects (for learning/fun/exploring)
+This repository contains small projects (for fun / personal / etc)
 
-Sentdex-DeepLearning-basics.ipynb : ML for handwriting recognition (numbers) 
-img_DataMining_from_web.ipynb     : training ML to predict Dog or Cat by training 2D img
-img_DataMining_from_web.ipynb     : web crawling
-Object_recognitio_YOLOV_3.ipynb   : object recognition using webcam
+## Content info
+
+* DeepLearning-basics.ipynb         : ML for handwriting recognition (numbers) 
+* training_own_2dimg_data           : training ML to predict Dog or Cat by training 2D img
+* img_DataMining_from_web.ipynb     : web crawling
+* Object_recognitio_YOLOV_3.ipynb   : object recognition using webcam
